@@ -1,10 +1,16 @@
 <div align="center">
 
-# Hi, I'm @mrizkymdarmawan
+# Rizky "Kiky" Darmawan
 
-### Software Developer | Problem Solver | Continuous Learner
+### Software Engineer | Web, Mobile, DevOps, and IoT
 
-Building clean, reliable, and user-focused software.
+Building reliable software products end-to-end, from product features to infrastructure.
+
+<p>
+  <a href="https://www.mrizkymdarmawan.com"><strong>Portfolio</strong></a> |
+  <a href="mailto:mrizkymdarmawan@gmail.com"><strong>Email</strong></a> |
+  <a href="https://github.com/mrizkymdarmawan"><strong>GitHub</strong></a>
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mrizkymdarmawan&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/mrizkymdarmawan)
 [![GitHub Followers](https://img.shields.io/github/followers/mrizkymdarmawan?label=Followers&style=flat)](https://github.com/mrizkymdarmawan?tab=followers)
@@ -14,26 +20,74 @@ Building clean, reliable, and user-focused software.
 
 ---
 
-## About Me
+## Professional Summary
 
-- I enjoy turning ideas into practical and maintainable products.
-- I focus on writing scalable code and improving developer experience.
-- I am always learning new tools, frameworks, and software engineering practices.
+- Software engineer with 5+ years of experience (since 2020).
+- Experienced across web, mobile, backend, infrastructure, and IoT integrations.
+- Focused on pragmatic architecture, readable code, and reliable delivery.
+- Open to software engineering opportunities and collaboration.
 
-## Tech Stack
+## Experience
 
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+| Role | Company | Location | Period |
+| --- | --- | --- | --- |
+| Software Engineer | Eterno Global Technologies | Indonesia | 2025 - Present |
+| Software Engineer | Minergo System | Indonesia | 2024 - 2025 |
+| Fullstack Developer | Bonet Utama | Indonesia | 2023 - 2024 |
+| Fullstack Developer | Freelance | Indonesia | 2020 - 2023 |
+
+## Selected Projects
+
+| Project | Summary | Tech | Year |
+| --- | --- | --- | --- |
+| [Famous](https://www.mrizkymdarmawan.com/projects/famous) | Fleet Management System integrated with IoT devices for mining workflows | React, Express, PostgreSQL, IoT | 2025 |
+| [UAssist Onboard Unit](https://www.mrizkymdarmawan.com/projects/uassist-onboard-unit) | IoT onboarding unit application for UAssist | React Native, TypeScript, Firebase, IoT | 2025 |
+| [UAssist](https://www.mrizkymdarmawan.com/projects/uassist) | Mobile app to manage and track hauling assignments | Flutter, Dart, Firebase | 2025 |
+| [E-Office BKAD Bogor](https://www.mrizkymdarmawan.com/projects/e-office-bkad) | E-Office system for BKAD Kota Bogor | Laravel, PHP, MySQL | 2023 |
+| [Portfolio V1](https://www.mrizkymdarmawan.com/projects/portfolio-v1) | Personal portfolio website | TypeScript, Next.js | 2026 |
+
+Additional archive projects:
+
+- [SPPAY](https://www.mrizkymdarmawan.com/projects/sppay)
+- [SOWAN](https://www.mrizkymdarmawan.com/projects/sowan)
+- [In-Clinic](https://www.mrizkymdarmawan.com/projects/in-clinic)
+- [Mood Prima](https://www.mrizkymdarmawan.com/projects/mood-prima)
+- [Al-Qodiri Mineral Water](https://www.mrizkymdarmawan.com/projects/al-qodiri-water)
+- [CLI Calculator](https://www.mrizkymdarmawan.com/projects/cli-calculator)
+- [Tiny HTTP](https://www.mrizkymdarmawan.com/projects/tiny-http)
+- [Go Basics](https://www.mrizkymdarmawan.com/projects/go-basics)
+- [Rust Basics](https://www.mrizkymdarmawan.com/projects/rust-basics)
+
+## Core Technologies
+
+**Web and Frontend**
+
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-333333?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-333333?style=for-the-badge&logo=dart)
+
+**Backend and Data**
+
+![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=php)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase)
+
+**Other**
+
+![IoT](https://img.shields.io/badge/IoT-333333?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go)
+![Rust](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust)
 ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker)
-
-## Current Focus
-
-- Building portfolio-quality projects
-- Improving backend architecture and API design
-- Learning advanced cloud and deployment workflows
 
 ## GitHub Analytics
 
@@ -42,12 +96,6 @@ Building clean, reliable, and user-focused software.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizkymdarmawan&layout=compact&theme=transparent" alt="Top languages" />
 </p>
 
-## Connect With Me
-
-- GitHub: [@mrizkymdarmawan](https://github.com/mrizkymdarmawan)
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-
 ---
 
-If you are interested in collaboration, feel free to connect. I am always open to discussing ideas, projects, and opportunities.
+I am currently growing my applied experience in AI-focused projects while continuing to build production-ready software across multiple domains.
