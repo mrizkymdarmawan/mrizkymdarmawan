@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Rizky "Kiky" Darmawan
+# Hey, I'm Kiky
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer+from+Indonesia;I+build+web%2C+mobile%2C+and+IoT+products;Always+learning%2C+always+shipping)
 
