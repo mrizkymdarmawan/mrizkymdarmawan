@@ -16,13 +16,6 @@ I build reliable software from product features to infrastructure.
 
 ---
 
-## About me
-
-- I have been building software since 2020.
-- I enjoy building clean systems that are easy to maintain.
-- My day-to-day work spans web apps, mobile apps, backend APIs, and IoT integrations.
-- I am currently a Software Engineer at Eterno Global Technologies.
-
 ## Tech I use often
 
 ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react)
@@ -35,27 +28,17 @@ I build reliable software from product features to infrastructure.
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express)
 ![Laravel](https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel)
+![Codeigniter](https://img.shields.io/badge/codeigniter-333333?style=for-the-badge&logo=codeigniter)
 ![PHP](https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase)
 ![IoT](https://img.shields.io/badge/IoT-333333?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
-
-## Featured projects
-
-- [Famous](https://www.mrizkymdarmawan.com/projects/famous) - Fleet management system integrated with IoT devices for mining workflows.
-- [UAssist Onboard Unit](https://www.mrizkymdarmawan.com/projects/uassist-onboard-unit) - IoT onboarding unit app built with React Native and Firebase.
-- [UAssist](https://www.mrizkymdarmawan.com/projects/uassist) - Mobile app for hauling assignment management and tracking.
-- [E-Office BKAD Bogor](https://www.mrizkymdarmawan.com/projects/e-office-bkad) - E-Office platform built with Laravel and MySQL.
-- [Project archive](https://www.mrizkymdarmawan.com/projects) - More web, mobile, and client projects.
-
-## Career snapshot
-
-- **2025 - Present**: Software Engineer, Eterno Global Technologies
-- **2024 - 2025**: Software Engineer, Minergo System
-- **2023 - 2024**: Fullstack Developer, Bonet Utama
-- **2020 - 2023**: Fullstack Developer, Freelance
+![SpringBoot](https://img.shields.io/badge/SpringBoot-333333?style=for-the-badge&logo=Spring)
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)
+![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular)
+![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=Kotlin)
 
 ## GitHub Analytics
 
