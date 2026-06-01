@@ -52,6 +52,8 @@ I build reliable software from product features to infrastructure.
 
 **Tools & Other**
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-555555?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![IoT](https://img.shields.io/badge/IoT-555555?style=flat-square&logo=arduino&logoColor=00979D)
 
 ---
