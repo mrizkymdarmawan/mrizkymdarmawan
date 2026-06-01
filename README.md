@@ -2,7 +2,7 @@
 
 # Hey, I'm Kiky
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer+from+Indonesia;I+build+web%2C+mobile%2C+and+IoT+products;Always+learning%2C+always+shipping)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer+from+Indonesia;I+build+products+across+web%2C+mobile%2C+desktop%2C+and+IoT;Always+learning%2C+always+shipping)
 
 I build reliable software from product features to infrastructure.
 
@@ -16,7 +16,7 @@ I build reliable software from product features to infrastructure.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=61DAFB)
